@@ -1,0 +1,10 @@
+{
+  "session_start": "2025-08-21T16:27:35.547958",
+  "session_duration_seconds": 175.23051118850708,
+  "total_steps": 121,
+  "total_episodes": 2,
+  "log_files": {
+    "csv": "./flight_logs/flight_data_20250821_162735.csv",
+    "graphs": "./flight_logs/flight_graphs_20250821_162735.png"
+  }
+}
